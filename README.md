@@ -26,3 +26,4 @@ Unicode symbols for different crypto currencies.
 | Augur           |REP     |Ɍ      |
 | Dai             |DAI     |◈      |
 | Steem           |STEEM   |ȿ      |
+| Filecoin        |FIL     |⨎      |
